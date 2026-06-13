@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "blocklist": [
+    "example.com",
+    "doubleclick.net"
+  ],
+  "allowlist": [],
+  "replacement_html": "<!DOCTYPE html><html lang=\"zh-CN\"><head><meta charset=\"UTF-8\"><title>访问受限</title></head><body style=\"font-family:system-ui;text-align:center;margin-top:15%\"><h1>🚫 该内容已被 JrUntility 拦截</h1><p>规则由远程统一管理。如需访问请联系管理员。</p></body></html>"
+}
