@@ -3,6 +3,5 @@
   "blocklist": [
     "example.com",
     "doubleclick.net"
-  ],
-  "allowlist": []
+  ]
 }
