@@ -3,6 +3,6 @@
   "blocklist": [
     "example.com",
     "doubleclick.net"
-  ]
-  "openrouter": "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"
+  ],
+  "prompt": "判断该网页是否包含暴力、色情、赌博、诈骗或其它违法不良内容。若包含则拦截，否则允许。"
 }
