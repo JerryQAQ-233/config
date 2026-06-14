@@ -5,6 +5,7 @@
     "doubleclick.net"
   ],
   "ai": {
+    "endpoint": "",
     "key": "",
     "model": "openai/gpt-oss-20b:free",
     "prompt": "判断该网页是否包含暴力、色情、赌博、诈骗或其它违法不良内容。若包含则拦截，否则允许。"
