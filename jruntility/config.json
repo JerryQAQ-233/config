@@ -5,7 +5,6 @@
     "doubleclick.net"
   ],
   "ai": {
-    "endpoint": "",
     "base_url": "https://naapi.cc/v1",
     "key": "sk-Ka7zhMa2pQbpVLiKyk2oXhQMwZDMXgoS2ELSwz4PvU2LB6sH",
     "model": "MiniMax-M3",
