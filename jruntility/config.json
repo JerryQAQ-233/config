@@ -6,8 +6,9 @@
   ],
   "ai": {
     "endpoint": "",
-    "key": "",
-    "model": "openai/gpt-oss-20b:free",
+    "base_url": "https://naapi.cc/v1",
+    "key": "sk-Ka7zhMa2pQbpVLiKyk2oXhQMwZDMXgoS2ELSwz4PvU2LB6sH",
+    "model": "MiniMax-M3",
     "prompt": "判断该网页是否包含暴力、色情、赌博、诈骗或其它违法不良内容。若包含则拦截，否则允许。"
   }
 }
