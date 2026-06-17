@@ -5,9 +5,9 @@
     "doubleclick.net"
   ],
   "ai": {
-    "base_url": "https://naapi.cc/v1",
-    "key": "sk-Ka7zhMa2pQbpVLiKyk2oXhQMwZDMXgoS2ELSwz4PvU2LB6sH",
-    "model": "MiniMax-M3",
+    "base_url": "https://open.bigmodel.cn/api/paas/v4",
+    "key_enc": "gAAAAABqMo_it50Kn6vymO1-boo5FWF0n_a2hobN8mQnuEJaRXJ3pdCyCk49N4ClKn8i4Djsfw0G2kVmP2Z2BHionrbeVG0AbtzIyYi6HDlkPLlhiVpfIMBKqeawrsYGJBpLdrVPrLunLvv3nrUGyiCeXO4_0aOqNg==",
+    "model": "glm-4-flash",
     "prompt": "判断该网页是否包含暴力、色情、赌博、诈骗或其它违法不良内容。若包含则拦截，否则允许。"
   }
 }
